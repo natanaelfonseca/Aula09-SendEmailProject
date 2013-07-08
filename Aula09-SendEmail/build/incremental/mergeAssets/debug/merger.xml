@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/home/natanaelfonseca/AndroidStudioProjects/Aula09-SendEmailProject/Aula09-SendEmail/src/main/assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/natanaelfonseca/AndroidStudioProjects/Aula09-SendEmailProject/Aula09-SendEmail/src/debug/assets" />
+    </dataSet>
+
+</merger>
